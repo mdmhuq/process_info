@@ -119,8 +119,7 @@ These are installed by default on most Linux systems.
 
 ## 📄 License
 
-MIT License (or add your preferred license here)
-
+MIT License
 ---
 
 
